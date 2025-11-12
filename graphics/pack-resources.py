@@ -7,8 +7,10 @@ import subprocess
 if __name__ == '__main__':
     current_dir = os.path.dirname(os.path.realpath(__file__))
     project_dir = os.path.join(current_dir, '')
+    resources_dir = os.path.join(project_dir, '..\\', 'src\\assets\\game\\resources')
 
-    images_dir = ".\..\src\extensions\shared-cascading-slot\graphics\shared-standard-slot"
+    images_dir = ".\images"
+    #images_dir = ".\..\src\extensions\shared-cascading-slot\graphics\shared-standard-slot"
 
     # Pack.
     packer_path = os.path.join(
@@ -16,7 +18,9 @@ if __name__ == '__main__':
         'pack.js'
     )
 
-    outputPath = os.path.join(project_dir, '..\\', 'src\\extensions\\shared-cascading-slot\\assets\\shared\\textures')
+    outputPath = os.path.join(project_dir, '..\\', 'src\\assets\\game\\resources\\textures')
+    #outputPath = os.path.join(project_dir, '..\\', 'src\\extensions\\shared-cascading-slot\\assets\\shared\\textures')
+    
     subprocess.Popen([
         'node',
         packer_path,
