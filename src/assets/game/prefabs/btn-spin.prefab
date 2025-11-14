@@ -479,6 +479,8 @@
       "__id__": 0
     },
     "fileId": "76Sy3oxu9PmrAy3GYsMLRE",
+    "instance": null,
+    "targetOverrides": null,
     "nestedPrefabInstanceRoots": null
   },
   {
@@ -857,7 +859,7 @@
         "__id__": 38
       }
     ],
-    "_active": false,
+    "_active": true,
     "_components": [
       {
         "__id__": 44
@@ -1001,14 +1003,14 @@
       "b": 255,
       "a": 255
     },
-    "_string": "999",
+    "_string": "9999",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
-    "_actualFontSize": 48,
+    "_actualFontSize": 37,
     "_fontSize": 48,
     "_fontFamily": "Arial",
     "_lineHeight": 48,
-    "_overflow": 0,
+    "_overflow": 2,
     "_enableWrapText": true,
     "_font": {
       "__uuid__": "f33f2903-ceb6-4044-b4a6-27b2ee06e5b1",
@@ -1495,6 +1497,7 @@
     "lblAutoSpinRound": {
       "__id__": 41
     },
+    "spineAutoSpin": null,
     "_id": ""
   },
   {
