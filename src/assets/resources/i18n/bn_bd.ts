@@ -54,7 +54,7 @@ export const languages = {
         "disable_turbo_mode": "টার্বো মোড \"বন্ধ\"",
         "bet_level_shorten": "বাজির স্তর",
         "total_bet_shorten": "মোট বাজি",
-        "big_win": "Big Win",
+        "big_win": "বিগ উইন",
         "auto_spin": "অটো স্পিন",
         "show_msg_when_spin_desktop": "স্পেস ধরে রাখুন অথবা স্পিন-এ ক্লিক করুন",
         "scatter_odds_preview": "%{numOfScatters}+ Scatters %{numOfSpins} FREE SPINS ট্রিগার করে।",
@@ -82,7 +82,10 @@ export const languages = {
         "msg_random_multipliers": "250x পর্যন্ত র্যান্ডম মাল্টিপ্লায়ার",
         "btn_buy_free_spins": "Buy Free Spins",
         "msg_free_spins": "Free Spins এ ক্রমবর্ধমান মাল্টিপ্লায়ার",
-        "turbo_icon": "Turbo"
+        "turbo_icon": "Turbo",
+        "speed_normal": "স্বাভাবিক গতি",
+        "speed_turbo": "টার্বো স্পীড",
+        "speed_ultra": "আলট্রা স্পিড"
     },
     "Common": {
         "bet_history": "বাজি ইতিহাস",
