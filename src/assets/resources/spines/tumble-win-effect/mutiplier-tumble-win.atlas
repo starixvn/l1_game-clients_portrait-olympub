@@ -1,0 +1,370 @@
+
+mutiplier-tumble-win.webp
+size: 1712,1532
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mutiplier-tumble-win00
+  rotate: false
+  xy: 2, 1328
+  size: 500, 100
+  orig: 500, 100
+  offset: 0, 0
+  index: -1
+mutiplier-tumble-win01
+  rotate: false
+  xy: 504, 1430
+  size: 500, 100
+  orig: 500, 100
+  offset: 0, 0
+  index: -1
+mutiplier-tumble-win02
+  rotate: false
+  xy: 2, 1226
+  size: 500, 100
+  orig: 500, 100
+  offset: 0, 0
+  index: -1
+mutiplier-tumble-win03
+  rotate: false
+  xy: 504, 1328
+  size: 500, 100
+  orig: 500, 100
+  offset: 0, 0
+  index: -1
+mutiplier-tumble-win04
+  rotate: false
+  xy: 1006, 1430
+  size: 500, 100
+  orig: 500, 100
+  offset: 0, 0
+  index: -1
+mutiplier-tumble-win05
+  rotate: false
+  xy: 2, 1124
+  size: 500, 100
+  orig: 500, 100
+  offset: 0, 0
+  index: -1
+mutiplier-tumble-win06
+  rotate: false
+  xy: 504, 1226
+  size: 500, 100
+  orig: 500, 100
+  offset: 0, 0
+  index: -1
+mutiplier-tumble-win07
+  rotate: false
+  xy: 1006, 1328
+  size: 500, 100
+  orig: 500, 100
+  offset: 0, 0
+  index: -1
+mutiplier-tumble-win08
+  rotate: false
+  xy: 2, 1022
+  size: 500, 100
+  orig: 500, 100
+  offset: 0, 0
+  index: -1
+mutiplier-tumble-win09
+  rotate: false
+  xy: 504, 1124
+  size: 500, 100
+  orig: 500, 100
+  offset: 0, 0
+  index: -1
+mutiplier-tumble-win10
+  rotate: false
+  xy: 1006, 1226
+  size: 500, 100
+  orig: 500, 100
+  offset: 0, 0
+  index: -1
+mutiplier-tumble-win11
+  rotate: false
+  xy: 2, 920
+  size: 500, 100
+  orig: 500, 100
+  offset: 0, 0
+  index: -1
+mutiplier-tumble-win12
+  rotate: false
+  xy: 504, 1022
+  size: 500, 100
+  orig: 500, 100
+  offset: 0, 0
+  index: -1
+mutiplier-tumble-win13
+  rotate: false
+  xy: 1006, 1124
+  size: 500, 100
+  orig: 500, 100
+  offset: 0, 0
+  index: -1
+mutiplier-tumble-win14
+  rotate: false
+  xy: 2, 818
+  size: 500, 100
+  orig: 500, 100
+  offset: 0, 0
+  index: -1
+mutiplier-tumble-win15
+  rotate: false
+  xy: 504, 920
+  size: 500, 100
+  orig: 500, 100
+  offset: 0, 0
+  index: -1
+mutiplier-tumble-win16
+  rotate: false
+  xy: 1006, 1022
+  size: 500, 100
+  orig: 500, 100
+  offset: 0, 0
+  index: -1
+mutiplier-tumble-win17
+  rotate: true
+  xy: 1508, 1030
+  size: 500, 100
+  orig: 500, 100
+  offset: 0, 0
+  index: -1
+mutiplier-tumble-win18
+  rotate: false
+  xy: 2, 716
+  size: 500, 100
+  orig: 500, 100
+  offset: 0, 0
+  index: -1
+mutiplier-tumble-win19
+  rotate: false
+  xy: 504, 818
+  size: 500, 100
+  orig: 500, 100
+  offset: 0, 0
+  index: -1
+mutiplier-tumble-win20
+  rotate: false
+  xy: 1006, 920
+  size: 500, 100
+  orig: 500, 100
+  offset: 0, 0
+  index: -1
+mutiplier-tumble-win21
+  rotate: true
+  xy: 1610, 1030
+  size: 500, 100
+  orig: 500, 100
+  offset: 0, 0
+  index: -1
+mutiplier-tumble-win22
+  rotate: false
+  xy: 2, 614
+  size: 500, 100
+  orig: 500, 100
+  offset: 0, 0
+  index: -1
+mutiplier-tumble-win23
+  rotate: false
+  xy: 504, 716
+  size: 500, 100
+  orig: 500, 100
+  offset: 0, 0
+  index: -1
+mutiplier-tumble-win24
+  rotate: false
+  xy: 1006, 818
+  size: 500, 100
+  orig: 500, 100
+  offset: 0, 0
+  index: -1
+mutiplier-tumble-win25
+  rotate: false
+  xy: 2, 512
+  size: 500, 100
+  orig: 500, 100
+  offset: 0, 0
+  index: -1
+mutiplier-tumble-win26
+  rotate: false
+  xy: 504, 614
+  size: 500, 100
+  orig: 500, 100
+  offset: 0, 0
+  index: -1
+mutiplier-tumble-win27
+  rotate: false
+  xy: 1006, 716
+  size: 500, 100
+  orig: 500, 100
+  offset: 0, 0
+  index: -1
+mutiplier-tumble-win28
+  rotate: false
+  xy: 2, 410
+  size: 500, 100
+  orig: 500, 100
+  offset: 0, 0
+  index: -1
+mutiplier-tumble-win29
+  rotate: false
+  xy: 504, 512
+  size: 500, 100
+  orig: 500, 100
+  offset: 0, 0
+  index: -1
+mutiplier-tumble-win30
+  rotate: false
+  xy: 1006, 614
+  size: 500, 100
+  orig: 500, 100
+  offset: 0, 0
+  index: -1
+mutiplier-tumble-win31
+  rotate: false
+  xy: 2, 308
+  size: 500, 100
+  orig: 500, 100
+  offset: 0, 0
+  index: -1
+mutiplier-tumble-win32
+  rotate: false
+  xy: 504, 410
+  size: 500, 100
+  orig: 500, 100
+  offset: 0, 0
+  index: -1
+mutiplier-tumble-win33
+  rotate: false
+  xy: 1006, 512
+  size: 500, 100
+  orig: 500, 100
+  offset: 0, 0
+  index: -1
+mutiplier-tumble-win34
+  rotate: true
+  xy: 1508, 528
+  size: 500, 100
+  orig: 500, 100
+  offset: 0, 0
+  index: -1
+mutiplier-tumble-win35
+  rotate: false
+  xy: 2, 206
+  size: 500, 100
+  orig: 500, 100
+  offset: 0, 0
+  index: -1
+mutiplier-tumble-win36
+  rotate: false
+  xy: 504, 308
+  size: 500, 100
+  orig: 500, 100
+  offset: 0, 0
+  index: -1
+mutiplier-tumble-win37
+  rotate: false
+  xy: 1006, 410
+  size: 500, 100
+  orig: 500, 100
+  offset: 0, 0
+  index: -1
+mutiplier-tumble-win38
+  rotate: true
+  xy: 1610, 528
+  size: 500, 100
+  orig: 500, 100
+  offset: 0, 0
+  index: -1
+mutiplier-tumble-win39
+  rotate: false
+  xy: 2, 104
+  size: 500, 100
+  orig: 500, 100
+  offset: 0, 0
+  index: -1
+mutiplier-tumble-win40
+  rotate: false
+  xy: 504, 206
+  size: 500, 100
+  orig: 500, 100
+  offset: 0, 0
+  index: -1
+mutiplier-tumble-win41
+  rotate: false
+  xy: 1006, 308
+  size: 500, 100
+  orig: 500, 100
+  offset: 0, 0
+  index: -1
+mutiplier-tumble-win42
+  rotate: false
+  xy: 2, 2
+  size: 500, 100
+  orig: 500, 100
+  offset: 0, 0
+  index: -1
+mutiplier-tumble-win43
+  rotate: false
+  xy: 504, 104
+  size: 500, 100
+  orig: 500, 100
+  offset: 0, 0
+  index: -1
+mutiplier-tumble-win44
+  rotate: false
+  xy: 1006, 206
+  size: 500, 100
+  orig: 500, 100
+  offset: 0, 0
+  index: -1
+mutiplier-tumble-win45
+  rotate: false
+  xy: 504, 2
+  size: 500, 100
+  orig: 500, 100
+  offset: 0, 0
+  index: -1
+mutiplier-tumble-win46
+  rotate: false
+  xy: 1006, 104
+  size: 500, 100
+  orig: 500, 100
+  offset: 0, 0
+  index: -1
+mutiplier-tumble-win47
+  rotate: false
+  xy: 1006, 2
+  size: 500, 100
+  orig: 500, 100
+  offset: 0, 0
+  index: -1
+mutiplier-tumble-win48
+  rotate: true
+  xy: 1508, 26
+  size: 500, 100
+  orig: 500, 100
+  offset: 0, 0
+  index: -1
+mutiplier-tumble-win49
+  rotate: true
+  xy: 1610, 26
+  size: 500, 100
+  orig: 500, 100
+  offset: 0, 0
+  index: -1
+mutiplier-tumble-win51
+  rotate: false
+  xy: 2, 1430
+  size: 500, 100
+  orig: 500, 100
+  offset: 0, 0
+  index: -1
+mutiplier-tumble-win50
+  rotate: false
+  xy: 2, 1430
+  size: 500, 100
+  orig: 500, 100
+  offset: 0, 0
+  index: -1
